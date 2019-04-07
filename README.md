@@ -12,6 +12,6 @@ Download your files from TASK_01/Download
 Upload finsihed Project TASK_01/Upload
 
 
-Any commnets of issues please email bounty@a2trade.io
+Any commnets, suggestions and  issues please email bounty@a2trade.io
 
 Bounty Manager.
